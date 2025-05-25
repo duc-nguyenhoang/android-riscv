@@ -1,0 +1,5 @@
+f9ac4c6282776e5e848f293700015d96  system.img
+cfab59606244a73850edf027ab1146f8  vendor.img
+b8ac2180e19d21cab90f1bd0257b37ca  boot/ramdisk.img
+d8a4b1ee09b48aaf696094ff5f6ad6a2  boot/Image.gz
+5967eb4276acd3058989a60c9f52fc77  boot/dtbs/starfive/jh7110-starfive-visionfive-2-v1.2a.dtb
